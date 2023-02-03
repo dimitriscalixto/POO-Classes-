@@ -18,4 +18,4 @@ class Carro:
 p1 = Pessoa('Dimitris', 'Calixto', 19)
 c1 = Carro('Fiat', 'Cronos', 'Preto')
 
-c1.acelerar() # Crono está acelerando
+c1.acelerar() # Cronos está acelerando
