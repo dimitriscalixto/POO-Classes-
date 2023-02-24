@@ -1,0 +1,1 @@
+Dependendo de como a classe se comporta     

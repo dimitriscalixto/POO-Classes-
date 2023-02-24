@@ -1,0 +1,1 @@
+Se tentarmos criar uma classe que não herda nada da classe Conta, não aconteceria nada, literalmente, pois como estamos utilizando o método herdado de conta dentro do método atualizar_contas(), ao tentar chamar conta.atualizar() estaremos chamando um método que dentro da classe não existe, pois ela só existiria se herdasse da classe Conta.
